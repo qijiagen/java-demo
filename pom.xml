@@ -73,6 +73,14 @@
 
     <dependencyManagement>
         <dependencies>
+
+
+            <dependency>
+                <groupId>javax.servlet</groupId>
+                <artifactId>servlet-api</artifactId>
+                <version>3.0-alpha-1</version>
+            </dependency>
+
             <dependency>
                 <groupId>com.project.tool</groupId>
                 <artifactId>saturn-client</artifactId>
